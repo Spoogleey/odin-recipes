@@ -5,6 +5,16 @@
     color: white;
 }
 
+.sub-heading {
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+}
+
 .recipe {
+    font-size: 25px;
+}
+
+p, li {
     font-size: 25px;
 }
