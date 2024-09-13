@@ -1,0 +1,10 @@
+.main-heading {
+    text-align: center;
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+}
+
+.recipe {
+    font-size: 25px;
+}
